@@ -35,8 +35,6 @@ MBTI : ENFP-T 와 INTP-T 사이
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 
 
-<hr>
-
 
 
 ![MIOGY's github stats](https://github-readme-stats.vercel.app/api?username=miogy&show_icons=true&theme=aura)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=aura)
