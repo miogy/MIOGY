@@ -1,5 +1,7 @@
+<div align="center">
 
-# MIOGY ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/miogyFhit-counter&count_bg=%23FFFC4F&title_bg=%23A4A4A4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+# MIOGY       
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/miogyFhit-counter&count_bg=%23FFFC4F&title_bg=%23A4A4A4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <br>
 
@@ -11,10 +13,9 @@ MBTI : ENFP-T 와 INTP-T 사이
 <a href="https://www.instagram.com/mi_ogy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a> <a href="https://blog.naver.com/jjangrl87" target="_blank"><img src="https://img.shields.io/badge/NAVER-03C75A?style=plastic&logo=NAVER&logoColor=white"/></a> <a href="https://velog.io/@miogy" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
 
 
-호기심 많은 탐색형 개발자 양미옥 입니다.
+호기심 많은 탐색형 개발자 양미옥 입니다.<br>
 디자인부터 개발까지 능력있는 개발자가 되기 위해 오늘도 꾸준히 배워나갑니다.
 
-<hr>
 
 
 ## Skills 🧐
@@ -38,4 +39,6 @@ MBTI : ENFP-T 와 INTP-T 사이
 
 
 
-![MIOGY's github stats](https://github-readme-stats.vercel.app/api?username=miogy&show_icons=true&theme=aura) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=aura)
+![MIOGY's github stats](https://github-readme-stats.vercel.app/api?username=miogy&show_icons=true&theme=aura)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=aura)
+
+</div>
