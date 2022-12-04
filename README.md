@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/mi_ogy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a> <a href="https://blog.naver.com/jjangrl87" target="_blank"><img src="https://img.shields.io/badge/NAVER-03C75A?style=plastic&logo=NAVER&logoColor=white"/></a> <a href="https://velog.io/@miogy" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
 
 
-호기심 많은 탐색형,  INTP-T 개발자 양미옥 입니다.<br>
+호기심 많은 탐색형 개발자 양미옥입니다.<br>
 디자인부터 개발까지 능력있는 개발자가 되기 위해 오늘도 꾸준히 배워나갑니다.
 
 <br>
